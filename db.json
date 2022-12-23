@@ -1,12 +1,19 @@
-[
-   {
-      "song":"Death Bed",
-      "artists":"Powfu",
-      "songURL":"https://samplesongs.netlify.app/Death%20Bed.mp3"
-   },
-   {
-      "song":"Bad Liar",
-      "artists":"Imagine Dragons",
-      "songURL":"https://samplesongs.netlify.app/Bad%20Liar.mp3"
-   }
-]
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "to learn angular",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "to learn french",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "to learn some",
+      "completed": false
+    }
+  ]
+}
